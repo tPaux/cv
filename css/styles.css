@@ -1,9 +1,21 @@
+body {
+	margin: 0 auto;
+	max-width: 50em;
+	font-famiy: 'Helvetica', 'Arial', sans-serif;
+	line-height: 1.5;
+	padding: 4em 1em;
+	color: #555;
+}
+
 h1 {
-	color: grey;
+	color: #333;
 }
 
 .sivupalkki {
 	width: 200px;
 	height: 680px;
-	background-color: 440044;
+	background-color: #440044;
+	border-style: dashed;
+	border width: 2px;
+	border-color: black;
 }
