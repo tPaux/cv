@@ -104,7 +104,7 @@ a:hover, a:active {
 
 .viiva {
 	border-left: 3px dotted #AC7D77;
-	height: 1500px; 
+	height: 100%; 
 	position: absolute;
   	left: 35%;
   	top: 160px;
