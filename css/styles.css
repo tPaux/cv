@@ -1,23 +1,123 @@
 body {
 	margin: 0 auto;
 	max-width: 50em;
-	font-famiy: 'Helvetica', 'Arial', sans-serif;
 	line-height: 1.5;
-	padding: 4em 1em;
-	color: #555;
+	padding: 4em 2em;
+	background-color: #E6DCD2;
+	font-stretch: expanded;
 }
 
 h1 {
-	color: #333;
+	
+	color: #AC7D77;
+	font-family: "Times New Roman";
+	font-size: 35px;
+	top: 10%;
+	text-transform: lowercase;
+	letter-spacing: 20px;
+	line-height: 0.7;
+}
+
+
+h2 {
+	color: #A95211;
+	font-family: "Times New Roman";
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+	top: 50%;
+	letter-spacing: 20px;
+}
+	
+
+h3 {
+	color: #7C1D15;
+	font-family: "Times New Roman";
+	font-size: 16px;
+	text-transform: uppercase;
+	line-height: 3;
+}
+	
+
+p {
+	color: #420F0A;
+	font-family: 'Helvetica', 'Arial', 'sans-serif';
+	font-size: 14px;
+	letter-spacing: 3px; 
+	line-height: 2;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+  	color: #7D5A57;
+}
+
+a:hover, a:active {
+	font-weight: bold;
+}
+
+
+.tr1 {
+	width: 100%;
+}
+
+.td1 {
+	width: 50%;
+}
+
+.td2 {
+	width: 25%;
+}
+
+.td3 {
+	width: 75%;
+}
+
+.opaque {
+	color: rgba(245, 73, 39, 0.3)
+}
+
+.opaque2 {
+	color: rgba(245, 73, 39, 0.15)
+}
+
+.ylapalkki {
+	width: 55%;
+	height: 140px;
+	top: 10px;
+	left: 36.5%;
+	align-content: bottom;
+	text-align: right;
+	position: absolute;
+	
 }
 
 .sivupalkki {
-	width: 200px;
-	height: 680px;
-	background-color: #440044;
-	border-style: dashed;
-	border width: 2px;
-	border-color: black;
-	border-radius: 25px;
+	width: 33%;
+	top: 180px;
+	left: 0px;
+	text-align: right;
+	padding: 20px; 
+	position: absolute;
+	
+}
+
+.viiva {
+	border-left: 3px dotted #AC7D77;
+	height: 1500px; 
+	position: absolute;
+  	left: 35%;
+  	top: 160px;
+  	margin: 15px;
+
+}
+
+.paapalkki {
+	width: 510px;
+	left: 37.5%;
+	top: 180px;
 	padding: 20px;
+	position: absolute;
+	text-align: left;
+	opacity: 100%;
 }
