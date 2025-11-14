@@ -109,15 +109,7 @@ a:hover, a:active {
 	padding: 27px;
 	position: absolute;
 	background-color: rgba(144, 96, 0, 0.2);
-	
-}
-
-.viiva {
-	border-left: 3px dotted #AC7D77;
-	height: 100%; 
-	position: absolute;
-  	left: 37%;
-  	top: -10px;
+	border-right: 3px dotted #AC7D77;
 
 }
 
