@@ -89,10 +89,10 @@ a:hover, a:active {
 	color: rgba(99, 37, 0, 0.15)
 }
 
-.ylapalkki {
+.nimipalkki {
 	width: 65%;
-	height: 140px;
-	top: 0px;
+	height: 14%;
+	top: 0%;
 	left: 14.5%;
 	align-content: bottom;
 	text-align: right;
@@ -100,12 +100,12 @@ a:hover, a:active {
 	
 }
 
-.sivupalkki {
-	width: 15%;
+.yleistietopalkki {
+	width: 20%;
 	height: 100%;
 	top: 0px;
 	left: 0px;
-	text-align: right;
+	text-align: left;
 	padding: 27px;
 	position: absolute;
 	background-color: rgba(144, 96, 0, 0.2);
@@ -114,9 +114,9 @@ a:hover, a:active {
 }
 
 .paapalkki {
-	width: 510px;
-	left: 20%;
-	top: 180px;
+	width: 40%;
+	left: 25%;
+	top: 20%;
 	padding: 20px;
 	position: absolute;
 	text-align: left;
