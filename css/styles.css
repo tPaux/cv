@@ -14,8 +14,8 @@ h1 {
 	font-size: 28px;
 	top: 10%;
 	text-transform: lowercase;
-	letter-spacing: 13px;
 	line-height: 0.7;
+	letter-spacing: 25px;
 }
 
 
@@ -93,9 +93,9 @@ a:hover, a:active {
 	width: 110%;
 	height: 14%;
 	top: 0%;
-	left: 14.5%;
+	left: 35%;
 	align-content: bottom;
-	text-align: center;
+	text-align: left;
 	position: absolute;
 	
 }
