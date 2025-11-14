@@ -90,10 +90,10 @@ a:hover, a:active {
 }
 
 .ylapalkki {
-	width: 55%;
+	width: 65%;
 	height: 140px;
 	top: 0px;
-	left: 36.5%;
+	left: 14.5%;
 	align-content: bottom;
 	text-align: right;
 	position: absolute;
@@ -101,7 +101,7 @@ a:hover, a:active {
 }
 
 .sivupalkki {
-	width: 33%;
+	width: 15%;
 	height: 100%;
 	top: 0px;
 	left: 0px;
@@ -109,13 +109,13 @@ a:hover, a:active {
 	padding: 27px;
 	position: absolute;
 	background-color: rgba(144, 96, 0, 0.2);
-	border-right: 3px dotted #AC7D77;
+	border-right: 3px dotted rgba(99, 37, 0, 0.6);
 
 }
 
 .paapalkki {
 	width: 510px;
-	left: 37.5%;
+	left: 20%;
 	top: 180px;
 	padding: 20px;
 	position: absolute;
