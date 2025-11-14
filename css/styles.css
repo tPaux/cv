@@ -11,7 +11,7 @@ h1 {
 	
 	color: rgba(99, 37, 0, 0.6);
 	font-family: "Times New Roman";
-	font-size: 28px;
+	font-size: 27px;
 	top: 10%;
 	text-transform: lowercase;
 	letter-spacing: 20px;
@@ -90,7 +90,7 @@ a:hover, a:active {
 }
 
 .nimipalkki {
-	width: 83%;
+	width: 85%;
 	height: 14%;
 	top: 0%;
 	left: 14.5%;
@@ -117,7 +117,7 @@ a:hover, a:active {
 	width: 40%;
 	left: 30%;
 	top: 20%;
-	padding: 5%;
+	padding: 7%;
 	position: absolute;
 	text-align: left;
 	opacity: 100%;
